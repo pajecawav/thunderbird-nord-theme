@@ -1,0 +1,52 @@
+{
+	"manifest_version": 2,
+	"applications": {
+		"gecko": {
+			"id": "nord.theme@example.com",
+			"strict_min_version": "91.0"
+		}
+	},
+	"name": "Nord Theme",
+	"description": "An adaptation of the Nord Theme",
+	"version": "1.0",
+	"theme": {
+		"colors": {
+			"button_background_active": "#4c566a",
+			"button_background_hover": "#4c566a",
+			"frame": "#2e3440",
+			"frame_inactive": "#2e3440",
+			"icons_attention": "#88c0d0",
+			"icons": "#8fbcbb",
+			"popup": "#2e3440",
+			"popup_border": "#3b4252",
+			"popup_highlight": "#4c566a",
+			"popup_highlight_text": "#eceff4",
+			"popup_text": "#d8dee9",
+			"sidebar": "#2e3440",
+			"sidebar_border": "#2e3440",
+			"sidebar_highlight": "#4c566a",
+			"sidebar_highlight_border": "#4c566a",
+			"sidebar_highlight_text": "#eceff4",
+			"sidebar_text": "#d8dee9",
+			"tab_background_separator": "#3b4252",
+			"tab_background_text": "#d8dee9",
+			"tab_line": "#88c0d0",
+			"tab_loading": "#2e3440",
+			"tab_text": "#eceff4",
+			"tab_selected": "#3b4252",
+			"toolbar": "#3b4252",
+			"toolbar_bottom_separator": "#3b4252",
+			"toolbar_field": "#2e3440",
+			"toolbar_field_border": "#3b4252",
+			"toolbar_field_border_focus": "#4c566a",
+			"toolbar_field_focus": "#2e3440",
+			"toolbar_field_highlight": "#2e3440",
+			"toolbar_field_highlight_text": "#d8dee9",
+			"toolbar_field_text": "#d8dee9",
+			"toolbar_field_text_focus": "#d8dee9",
+			"toolbar_text": "#d8dee9",
+			"toolbar_top_separator": "#3b4252",
+			"toolbar_vertical_separator": "#3b4252"
+		}
+	}
+}
